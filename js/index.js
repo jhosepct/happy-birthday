@@ -82,3 +82,5 @@ setTimeout(() => {
   var cake = document.getElementById("cake_fadein");
   if (cake) cake.style.display = "block";
 }, 6000);
+
+var music = document.getElementById("music");
